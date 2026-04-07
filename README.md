@@ -3,7 +3,7 @@
 > **Diseño y ejecución de un pipeline de datos escalable (PySpark) y análisis visual (Power BI) basado en el ecosistema musical de Spotify.**
 
 ## 📌 Contexto del Proyecto y Naturaleza de los Datos
-Este proyecto nace como una extensión de una investigación académica, evolucionando hacia una **Prueba de Concepto (PoC) de Ingeniería Analítica (Analytics Engineering).**. 
+Este proyecto nace como una extensión de una investigación académica, evolucionando hacia una **Prueba de Concepto (PoC) de Ingeniería Analítica (Analytics Engineering)**.
 
 **Transparencia de los datos:** Se utilizó el dataset público "Most Streamed Spotify Songs 2023" (aprox. 1,000 registros). El objetivo principal de este repositorio no es el procesamiento de *Big Data* en términos de volumen, sino **demostrar el dominio de herramientas y arquitecturas escalables**. Se aplicó *PySpark* y modelado dimensional simulando un entorno de producción, garantizando que el pipeline creado sea capaz de procesar millones de registros si se conecta a un clúster real (ej. Databricks o AWS EMR).
 
