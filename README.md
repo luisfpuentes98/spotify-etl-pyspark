@@ -1,4 +1,4 @@
-# 🎵 Spotify Data Engineering & Analytics: End-to-End ETL Pipeline
+# 🎵 Spotify Data Analytics: Pipeline ETL End-to-End y Power BI
 
 > **Diseño y ejecución de un pipeline de datos escalable (PySpark) y análisis visual (Power BI) basado en el ecosistema musical de Spotify.**
 
