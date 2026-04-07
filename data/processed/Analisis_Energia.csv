@@ -1,0 +1,645 @@
+artist(s)_name,most_common_mode,average_energy,max_energy_%,min_energy_%,average_valence
+(G)I-DLE,Minor,87.0,91,83,67.0
+"21 Savage, Gunna",Major,73.0,73,73,29.0
+"24kgoldn, Iann Dior",Minor,72.0,72,72,76.0
+50 Cent,Minor,71.0,71,71,79.0
+"A$AP Rocky, Metro Boomin, Roisee",Minor,53.0,53,53,13.0
+"Abhijay Sharma, Riar Saab",Minor,74.0,74,74,85.0
+"Adassa, Mauro Castillo, Stephanie Beatriz, Encanto - Cast, Rhenzy Feliz, Diane Guerrero, Carolina Gaitan",Minor,45.0,45,45,83.0
+Adele,Major,63.5,76,37,41.75
+Aerosmith,Minor,43.0,43,43,24.0
+Agust D,Major,84.0,84,84,83.0
+"Aitana, zzoilo",Major,76.0,76,76,36.0
+"Ak4:20, Cris Mj, Pailita",Major,79.0,79,79,91.0
+Alec Benjamin,Minor,55.0,55,55,51.0
+"Alvaro Diaz, Rauw Alejandro",Minor,74.0,74,74,37.0
+"Ana Castela, AgroPlay",Major,71.0,71,71,61.0
+Andy Williams,Major,60.0,60,60,76.0
+Anggi Marito,Major,44.0,44,44,18.0
+Anitta,Minor,73.0,73,73,40.0
+"Anitta, Tini, Becky G",Major,83.0,83,83,80.0
+"AnnenMayKantereit, Giant Rooks",Minor,43.0,43,43,33.0
+"Anuel Aa, Jhay Cortez",Major,84.0,84,84,58.0
+"Anuel Aa, Myke Towers, Jhay Cortez",Minor,75.0,75,75,75.0
+"Arcangel, Bad Bunny",Major,70.0,70,70,58.0
+"Arcangel, Bizarrap",Minor,78.0,78,78,79.0
+"Arcangel, De La Ghetto, Justin Quiles, Lenny Tavï¿½ï¿½rez, Sech, Dalex, Dimelo Flow, Rich Music",Minor,76.0,76,76,61.0
+Arctic Monkeys,Major,60.75,85,42,46.75
+Ariana Grande,Major,71.5,80,63,59.5
+"Ariana Grande, The Weeknd",Major,66.0,79,53,56.5
+"Arijit Singh, Sachin-Jigar",Major,56.0,56,56,44.0
+"Arijit Singh, Sachin-Jigar, Amitabha Bhattacharya",Major,55.0,55,55,53.0
+"Arijit Singh, Vishal Dadlani, Sukriti Kakar, Vishal-Shekhar, Shekhar Ravjiani, Kumaar",Major,74.0,74,74,62.0
+Armani White,Major,50.0,50,50,75.0
+"Aventura, Bad Bunny",Major,86.0,86,86,79.0
+Avicii,Major,81.5,85,78,66.0
+"Ayparia, unxbected",Major,82.0,82,82,84.0
+BIGBANG,Major,58.0,58,58,24.0
+BLACKPINK,Major,66.66666666666667,69,62,63.666666666666664
+"BLESSD, Peso Pluma",Minor,84.0,84,84,90.0
+BTS,Major,69.0,89,36,62.625
+"BTS, Jung Kook, FIFA Sound",Major,88.0,88,88,34.0
+"BYOR, Imanbek",Major,80.0,80,80,42.0
+"Baby Rasta, Rauw Alejandro",Major,83.0,83,83,20.0
+Baby Tate,Major,51.0,51,51,73.0
+Bad Bunny,Major,66.73684210526316,90,48,53.21052631578947
+"Bad Bunny, Eladio Carrion",Major,76.0,76,76,14.0
+"Bad Bunny, Grupo Frontera",Minor,72.0,72,72,56.0
+"Bad Bunny, Jhay Cortez",Minor,62.5,68,57,28.0
+"Bad Bunny, Rauw Alejandro",Major,80.0,80,80,47.0
+"Bad Bunny, Tainy",Major,62.0,62,62,24.0
+"Bad Bunny, The Marï¿½ï",Major,60.0,60,60,55.0
+Band Aid,Major,57.0,57,57,23.0
+Beach House,Minor,79.0,79,79,62.0
+Beach Weather,Minor,84.0,84,84,47.0
+"Bebe Rexha, David Guetta",Minor,97.0,97,97,38.0
+"Becky G, Peso Pluma",Major,68.0,68,68,53.0
+Bellakath,Major,81.0,81,81,76.0
+Benson Boone,Major,54.0,54,54,30.0
+Beyoncï¿,Minor,73.66666666666667,88,64,65.66666666666667
+"Big One, Duki, Lit Killah, Maria Becerra, FMK, Rusherking, Emilia, Tiago pzk",Major,68.0,68,68,63.0
+"Big One, FMK, Ke personajes",Major,52.0,52,52,85.0
+Billie Eilish,Major,29.6,57,9,15.4
+"Billie Eilish, Khalid",Minor,30.0,30,30,12.0
+"Bing Crosby, John Scott Trotter & His Orchestra, Ken Darby Singers",Major,25.0,25,25,19.0
+"Bizarrap, Paulo Londra",Major,90.0,90,90,32.0
+"Bizarrap, Peso Pluma",Minor,67.0,67,67,81.0
+"Bizarrap, Quevedo",Major,78.0,78,78,55.0
+"Bizarrap, Tiago pzk",Minor,82.0,82,82,76.0
+"Bizarrap, Villano Antillano",Minor,75.0,75,75,42.0
+"Blackbear, BoyWithUke",Major,75.0,75,75,83.0
+Bobby Helms,Major,37.0,37,37,78.0
+"Bomba Estï¿½ï¿½reo, Bad B",Minor,69.0,69,69,27.0
+BoyWithUke,Minor,61.0,61,61,69.0
+Brenda Lee,Major,41.0,41,41,85.0
+Britney Spears,Major,72.0,72,72,69.0
+"Brray, Rauw Alejandro, Lyanno",Minor,83.0,83,83,58.0
+Bruno Mars,Major,60.75,85,27,45.75
+"Bruno Mars, Anderson .Paak, Silk Sonic",Major,62.0,62,62,78.5
+Burl Ives,Major,36.0,36,36,81.0
+Burna Boy,Minor,61.5,67,56,43.5
+"Buscabulla, Bad Bunny",Minor,62.0,62,62,45.0
+C. Tangana,Minor,46.0,46,46,37.0
+"Calvin Harris, Dua Lipa",Minor,86.0,86,86,59.0
+"Calvin Harris, Dua Lipa, Young Thug",Minor,70.0,70,70,76.0
+"Calvin Harris, Ellie Goulding",Major,87.0,87,87,31.0
+"Calvin Harris, Halsey, Pharrell Williams, Justin Timberlake",Major,73.0,73,73,90.0
+"Camila Cabello, Ed Sheeran",Major,70.0,70,70,96.0
+"Camila Cabello, Willow",Minor,64.0,64,64,45.0
+Carin Leon,Major,40.0,40,40,50.0
+"Carin Leon, Grupo Frontera",Major,64.0,64,64,78.0
+"Cartel De Santa, La Kelly",Major,47.0,47,47,47.0
+Central Cee,Major,51.0,57,45,74.0
+Chanel,Minor,81.0,81,81,59.0
+"Charli XCX, Jax Jones, Joel Corry, Saweetie",Minor,84.0,84,84,79.0
+Charlie Puth,Major,53.5,63,44,73.0
+"Charlie Puth, BTS, Jung Kook",Major,59.0,59,59,72.0
+Chase Atlantic,Major,54.0,54,54,8.0
+"Chencho Corleone, Bad Bunny",Minor,71.0,71,71,43.0
+"Chencho Corleone, Rauw Alejandro",Minor,69.0,69,69,51.0
+"Cherish, ACRAZE",Minor,81.0,81,81,64.0
+Childish Gambino,Major,45.0,45,45,25.0
+Chino Pacas,Minor,80.0,80,80,96.0
+Chris Brown,Minor,69.0,69,69,31.0
+"Chris Brown, Rvssian, Rauw Alejandro",Minor,85.0,85,85,60.0
+Chris Molitor,Major,66.0,66,66,28.0
+Chris Rea,Major,58.0,58,58,87.0
+Christian Nodal,Major,45.0,45,45,73.0
+Chuck Berry,Minor,71.0,71,71,94.0
+Cigarettes After Sex,Major,47.0,47,47,17.0
+Ckay,Minor,73.0,73,73,53.0
+"Ckay, AX'EL, Dj Yo!",Major,60.0,60,60,44.0
+Coi Leray,Major,52.0,52,52,62.0
+Coldplay,Major,44.333333333333336,62,27,26.666666666666668
+"Coldplay, BTS",Major,68.0,68,68,42.0
+Conan Gray,Major,43.0,43,43,25.0
+"Coolio, L.V.",Major,61.0,61,61,40.0
+Creedence Clearwater Revival,Major,70.0,70,70,76.0
+Cris Mj,Minor,53.0,53,53,82.0
+"DJ Escobar, MC MENOR SG, MC MENOR HR",Major,52.0,52,52,52.0
+Daddy Yankee,Major,85.5,91,80,82.0
+"Daddy Yankee, Bad Bunny",Major,85.0,87,83,59.0
+Danny Ocean,Major,67.0,67,67,27.0
+Darlene Love,Major,76.0,76,76,35.0
+Dave,Major,37.0,37,37,36.0
+"Dave, Central Cee",Major,58.0,58,58,66.0
+"David Guetta, Anne-Marie, Coi Leray",Major,91.0,91,91,23.0
+"David Guetta, Ella Henderson, Becky Hill",Minor,71.0,71,71,46.0
+"David Guetta, Shakira, Black Eyed Peas",Major,88.0,88,88,49.0
+David Kushner,Major,39.0,43,35,31.5
+"De La Ghetto, Duki, Quevedo",Major,84.0,84,84,48.0
+"De La Ghetto, Feid, Polima WestCoast, Paloma Mami, Pailita",Major,82.0,82,82,59.0
+Dean Lewis,Major,64.0,64,64,39.0
+Dean Martin,Major,24.0,24,24,72.0
+Demi Lovato,Minor,62.0,62,62,30.0
+"Dj LK da Escï¿½ï¿½cia, Tchakabum, mc jhenny, M",Minor,74.0,74,74,48.0
+Doechii,Minor,76.0,76,76,76.0
+Doja Cat,Major,59.666666666666664,76,46,56.833333333333336
+"Doja Cat, The Weeknd",Major,62.0,62,62,44.0
+"Don Omar, Lucenzo",Major,92.0,92,92,86.0
+"Don Toliver, Future, Justin Bieber",Minor,67.0,67,67,44.0
+Dove Cameron,Minor,61.0,61,61,23.0
+"Dr. Dre, 2Pac, Roger",Major,84.0,84,84,76.0
+"Dr. Dre, Snoop Dogg",Major,83.5,89,78,42.0
+Drake,Minor,51.0,68,43,26.75
+"Drake, 21 Savage",Major,56.875,70,36,32.0
+"Drake, DJ Khaled, Lil Baby",Minor,46.0,46,46,18.0
+"Drake, Future, Tems",Major,64.0,64,64,34.0
+"Drake, Future, Young Thug",Minor,60.0,60,60,33.0
+"Drake, Project Pat, 21 Savage",Minor,37.0,37,37,22.0
+"Drake, Travis Scott",Major,47.0,47,47,29.0
+"Drake, Travis Scott, 21 Savage",Minor,63.0,63,63,45.0
+"Drake, WizKid, Kyla",Major,63.0,63,63,36.0
+Dua Lipa,Minor,84.0,88,79,78.66666666666667
+"Dua Lipa, DaBaby",Minor,83.0,83,83,92.0
+"Dua Lipa, Elton John, Pnau",Major,80.0,80,80,92.0
+"Dua Lipa, Megan Thee Stallion",Major,63.0,63,63,68.0
+Duki,Major,77.5,93,62,49.5
+"Duki, NICKI NICOLE, Cris Mj, Standly, Stars Music Chile",Major,87.0,87,87,72.0
+Duncan Laurence,Minor,33.0,33,33,27.0
+ENHYPEN,Minor,78.0,89,67,58.0
+Ed Sheeran,Major,64.77777777777777,90,38,51.333333333333336
+"Ed Sheeran, Elton John",Major,94.0,94,94,60.0
+"Ed Sheeran, Fireboy DML",Minor,42.0,42,42,71.0
+"Ed Sheeran, J Balvin",Major,64.0,64,64,59.0
+"Ed Sheeran, Taylor Swift",Major,31.0,31,31,31.0
+Eden Muï¿½ï,Major,44.0,44,44,86.0
+"El Chachito, Junior H",Minor,48.0,48,48,77.0
+Elley Duhï¿,Minor,61.0,61,61,9.0
+"Elton John, Britney Spears",Major,77.0,77,77,49.0
+Em Beihold,Minor,52.0,52,52,61.0
+"Em Beihold, Stephen Sanchez",Major,57.0,57,57,32.0
+Eminem,Major,68.0,73,66,43.75
+"Eminem, Dido",Minor,74.0,74,74,53.0
+"Eminem, Dina Rae",Minor,76.0,76,76,64.0
+"Eminem, Dr. Dre",Major,80.0,86,74,61.5
+"Eminem, Nate Dogg",Major,85.0,85,85,10.0
+Emmy Meli,Major,47.0,47,47,46.0
+"Eslabon Armado, Peso Pluma",Minor,76.0,76,76,83.0
+Farruko,Major,77.0,77,77,44.0
+Feid,Minor,63.375,83,55,59.875
+"Feid, Alejo, Robi",Minor,74.0,74,74,63.0
+"Feid, Mora",Minor,79.0,79,79,46.0
+"Feid, Mora, Saiko, Quevedo",Minor,80.0,80,80,55.0
+"Feid, Myke Towers, Sky Rompiendo",Minor,64.0,64,64,17.0
+"Feid, Paulo Londra",Major,67.0,67,67,81.0
+"Feid, Sech, Jhayco",Major,77.0,77,77,67.0
+"Feid, Young Miko",Major,66.0,66,66,67.0
+Fifty Fifty,Major,62.5,66,59,85.0
+"Fran C, Polima WestCoast, Nickoog Clk, Pablito Pesadilla",Major,75.0,75,75,43.0
+Frank Ocean,Major,58.0,61,55,51.5
+Frank Sinatra,Major,34.0,34,34,94.0
+"Frank Sinatra, B. Swanson Quartet",Major,32.0,32,32,86.0
+Freddie Dredd,Minor,62.0,62,62,46.0
+Fuerza Regida,Minor,85.5,86,85,96.0
+"Fuerza Regida, Chino Pacas",Minor,79.0,79,79,76.0
+"Fuerza Regida, Grupo Frontera",Major,60.0,60,60,75.0
+"Fuerza Regida, Natanael Cano",Major,60.0,60,60,85.0
+"Fuerza Regida, Peso Pluma",Minor,81.0,81,81,80.0
+Fujii Kaze,Minor,76.0,76,76,52.0
+Future,Major,63.0,66,60,44.0
+"Future, Chris Brown, Metro Boomin",Minor,59.0,59,59,45.0
+"Future, Lil Uzi Vert, Metro Boomin",Minor,55.0,55,55,28.0
+"Future, Metro Boomin, Don Toliver",Minor,71.0,71,71,17.0
+"GODZZ__-, Zakaria",Minor,75.0,75,75,83.0
+"Gabito Ballesteros, Junior H, Peso Pluma",Minor,74.0,74,74,87.0
+Gayle,Major,54.0,54,54,42.0
+Ghost,Major,90.0,90,90,56.0
+Giveon,Major,46.0,46,46,59.0
+Glass Animals,Major,53.0,53,53,53.0
+"Gorillaz, Bad Bunny",Major,77.0,77,77,30.0
+"Gotye, Kimbra",Major,52.0,52,52,75.0
+Grupo Frontera,Major,53.0,53,53,69.0
+"Grupo Marca Registrada, Grupo Frontera",Major,59.0,59,59,80.0
+"Grupo Marca Registrada, Junior H",Minor,59.0,59,59,64.0
+Gunna,Minor,62.0,62,62,22.0
+"Gunna, Lil Baby",Minor,54.0,54,54,74.0
+Guns N' Roses,Major,90.0,90,90,67.0
+"Gustavo Mioto, Mari Fernandez",Major,91.0,91,91,61.0
+"Gwen Stefani, Blake Shelton",Major,88.0,88,88,93.0
+"HA SUNG WOON, Jimin",Major,43.0,43,43,14.0
+Halsey,Minor,62.0,62,62,29.0
+"Halsey, BTS",Minor,86.0,86,86,80.0
+"Halsey, Suga",Minor,74.0,74,74,14.0
+Harry Styles,Major,58.88235294117647,84,20,54.0
+Hotel Ugly,Minor,44.0,47,41,36.5
+Hozier,Minor,66.0,66,66,41.0
+INTERWORLD,Minor,64.0,64,64,15.0
+"IU, Agust D",Minor,57.0,57,57,44.0
+IVE,Major,81.0,92,71,57.75
+Imagine Dragons,Minor,73.66666666666667,78,71,59.0
+"Imagine Dragons, League of Legends, Arcane",Major,74.0,74,74,54.0
+"Imagine Dragons, League of Legends, JID, Arcane",Minor,76.0,76,76,59.0
+"Intense, AP Dhillon, Gurinder Gill",Minor,72.0,72,72,49.0
+"Interplanetary Criminal, Eliza Rose",Major,89.0,89,89,71.0
+"Israel & Rodolffo, Ana Castela",Major,95.0,95,95,72.0
+"Israel & Rodolffo, Mari Fernandez",Major,92.0,92,92,75.0
+"J Balvin, Bad Bunny",Major,65.0,65,65,43.0
+"J Balvin, Maria Becerra",Major,82.0,82,82,77.0
+"J Balvin, Nio Garcia, Bad Bunny",Minor,66.0,66,66,79.0
+J. Cole,Minor,52.0,52,52,47.0
+"J. Cole, Lil Durk",Major,44.0,44,44,69.0
+JISOO,Minor,39.0,39,39,64.0
+JVKE,Major,51.5,59,44,23.5
+Jack Black,Minor,31.0,31,31,41.0
+Jack Harlow,Major,59.666666666666664,65,56,28.0
+"Jack Harlow, Lil Nas X",Minor,70.0,70,70,89.0
+Jain,Major,66.0,66,66,40.0
+James Arthur,Major,56.0,56,56,34.5
+"James Blake, Metro Boomin",Major,60.0,60,60,26.0
+"James Hype, Miggy Dela Rosa",Minor,69.0,69,69,70.0
+"Jasiel Nuï¿½ï¿½ez, Peso P",Major,65.0,68,62,82.5
+Jason Derulo,Major,79.0,79,79,51.0
+Jaymes Young,Minor,67.0,67,67,50.0
+Jessi,Major,60.0,60,60,46.0
+Jessica Darrow,Major,58.0,58,58,37.0
+Jimin,Major,77.0,82,73,41.333333333333336
+Jin,Major,76.0,76,76,22.0
+Jnr Choi,Major,65.0,65,65,39.0
+John Legend,Major,26.0,26,26,33.0
+"John Legend, Metro Boomin",Minor,59.0,59,59,51.0
+"John Lennon, The Harlem Community Choir, The Plastic Ono Band, Yoko Ono",Major,61.0,61,61,39.0
+Joji,Major,44.0,52,32,23.333333333333332
+"Jordan Fisher, Josh Levi, Finneas O'Connell, 4*TOWN (From Disney and Pixarï¿½ï¿½ï¿½s Turning Red), Topher Ngo, Grayson Vill",Minor,72.0,72,72,73.0
+Josï¿½ï¿½ Felic,Major,82.0,82,82,96.0
+"Juan Cruz Toledo, Huilen Toledo",Major,33.0,33,33,12.0
+Juice WRLD,Major,55.0,62,48,34.5
+"Julieta Venegas, Bad Bunny, Tainy",Minor,70.0,70,70,14.0
+Jung Kook,Minor,61.5,76,47,42.0
+"Junior H, Eden Muï¿½ï",Major,43.0,43,43,42.0
+"Junior H, Peso Pluma",Minor,64.0,65,63,81.5
+Justin Bieber,Major,55.333333333333336,74,38,60.666666666666664
+"Justin Bieber, Daniel Caesar, Giveon",Major,68.0,68,68,49.0
+"Justin Bieber, Don Toliver",Minor,66.0,66,66,82.0
+"Justin Bieber, The Kid Laroi",Major,76.0,76,76,48.0
+"Justin Quiles, Lenny Tavï¿½ï¿½rez, BL",Minor,70.0,70,70,79.0
+KALUSH,Major,82.0,82,82,32.0
+Kaifi Khalil,Major,38.0,38,38,26.0
+Kali Uchis,Minor,72.0,72,72,88.0
+"Kali Uchis, Amaarae, Moliy",Minor,53.0,53,53,31.0
+"Kaliii, Kaliii",Major,39.0,39,39,51.0
+"Kanii, PR1ISVX",Minor,76.0,76,76,11.0
+Kanye West,Major,62.0,66,55,38.333333333333336
+"Kanye West, Alicia Keys, Fivio Foreign",Minor,80.0,80,80,50.0
+"Kanye West, Lil Durk, Cardi B",Major,69.0,69,69,52.0
+"Kanye West, XXXTENTACION",Minor,86.0,86,86,39.0
+Karol G,Major,60.5,72,48,51.75
+"Karol G, Becky G",Minor,70.0,70,70,90.0
+"Karol G, Ovy On The Drums",Minor,69.0,69,69,43.0
+"Karol G, Quevedo",Major,79.0,79,79,68.0
+"Karol G, Romeo Santos",Minor,78.0,78,78,58.0
+"Karol G, Shakira",Minor,63.0,63,63,61.0
+Kate Bush,Minor,55.0,55,55,20.0
+"Katy Perry, Alesso",Major,89.0,89,89,70.0
+Keane,Major,59.0,59,59,33.0
+Keisya Levronka,Major,40.0,40,40,14.0
+Kelly Clarkson,Major,81.0,81,81,69.0
+Kendrick Lamar,Minor,52.916666666666664,83,24,50.0
+"Kendrick Lamar, Baby Keem",Major,61.0,61,61,14.0
+"Kendrick Lamar, Beth Gibbons",Minor,37.0,37,37,50.0
+"Kendrick Lamar, Beyoncï¿",Major,70.0,70,70,20.0
+"Kendrick Lamar, Blxst, Amanda Reifer",Minor,74.0,74,74,40.0
+"Kendrick Lamar, Ghostface Killah, Summer Walker",Minor,82.0,82,82,71.0
+"Kendrick Lamar, Jay Rock",Minor,53.0,53,53,37.0
+"Kendrick Lamar, Kodak Black",Minor,57.0,57,57,78.0
+"Kendrick Lamar, Sam Dew, Baby Keem",Major,71.0,71,71,66.0
+"Kendrick Lamar, Sampha",Minor,78.0,78,78,50.0
+"Kendrick Lamar, Tanna Leone",Major,54.0,54,54,26.0
+"Kendrick Lamar, Taylour Paige",Major,69.0,69,69,52.0
+Kenia OS,Minor,79.0,79,79,64.0
+Kenshi Yonezu,Major,94.0,94,94,29.0
+"Kevin Gates, Juicy J",Major,70.0,70,70,68.0
+Kevin Kaarl,Major,36.0,36,36,27.0
+King,Minor,51.0,51,51,40.0
+Kodak Black,Major,41.0,41,41,11.0
+"Kodak Black, NLE Choppa, Muni Long, JVKE, Jimin",Minor,67.0,67,67,24.0
+Kordhell,Major,97.0,97,97,57.0
+"L7nnon, DJ Biel do Furduncinho, Bianca",Major,57.0,57,57,83.0
+LE SSERAFIM,Major,71.0,80,62,62.5
+LF System,Major,91.0,91,91,68.0
+Labrinth,Minor,47.714285714285715,66,20,31.857142857142858
+"Labrinth, Zendaya",Major,67.0,67,67,17.0
+Lady Gaga,Major,64.0,65,63,35.0
+"Lady Gaga, Bradley Cooper",Major,40.0,40,40,30.0
+Lana Del Rey,Minor,62.333333333333336,86,35,20.333333333333332
+"Lana Del Rey, Taylor Swift",Minor,40.0,40,40,32.0
+Lasso,Minor,65.0,65,65,72.0
+"Latto, Jung Kook",Major,83.0,83,83,89.0
+Lauren Spencer Smith,Major,44.0,44,44,31.0
+"Lauren Spencer Smith, Lauren Spencer Smith, Lauren Spencer Smith",Major,47.0,47,47,45.0
+Leah Kate,Major,79.0,79,79,45.0
+Leo Santana,Major,77.0,77,77,97.0
+Lewis Capaldi,Major,58.333333333333336,74,41,45.333333333333336
+Libianca,Minor,42.0,42,42,71.0
+Lil Baby,Major,64.0,67,61,22.0
+"Lil Durk, Morgan Wallen",Major,58.0,58,58,61.0
+Lil Nas X,Minor,69.33333333333333,85,51,54.0
+Lil Tjay,Major,55.0,55,55,41.0
+Lil Uzi Vert,Major,55.0,55,55,4.0
+Lil Yachty,Minor,56.0,56,56,26.0
+Linkin Park,Major,88.0,90,86,32.0
+Lisa,Minor,55.0,55,55,40.0
+"Lit Killah, Maria Becerra, Tiago pzk, NICKI NICOLE",Minor,44.0,44,44,61.0
+Lizzo,Minor,75.0,77,74,78.66666666666667
+Lizzy McAlpine,Major,33.0,33,33,27.0
+Lord Huron,Major,37.0,37,37,10.0
+Loreen,Minor,78.0,78,78,30.0
+"Lost Frequencies, Calum Scott",Minor,64.0,64,64,26.0
+Luar La L,Major,76.0,76,76,46.0
+Luciano,Minor,42.0,42,42,61.0
+"Luciano, Aitch, Bï¿½",Major,81.0,81,81,82.0
+"Ludwig Goransson, Foudeqush",Minor,44.0,44,44,25.0
+"Luis R Conriquez, La Adictiva",Major,59.0,59,59,97.0
+Luke Combs,Major,60.0,60,60,67.0
+"Luude, Colin Hay",Minor,86.0,86,86,4.0
+"Luï¿½ï¿½sa Sonza, MC Frog, Dj Gabriel do Borel, Davi K",Minor,45.0,45,45,77.0
+"MC Caverinha, KayBlack",Minor,47.0,47,47,55.0
+"MC Ryan SP, Love Funk, Mc Paiva ZS",Minor,60.0,60,60,62.0
+"MC Xenon, Os Gemeos da Putaria",Major,36.0,36,36,40.0
+"MNEK, Jax Jones",Major,78.0,78,78,53.0
+"Mabel Matiz, Mert Demir",Minor,59.0,59,59,92.0
+Mac DeMarco,Minor,14.0,14,14,64.0
+Mae Stephens,Major,73.0,73,73,96.0
+Mahalini,Major,43.0,43,43,20.0
+"Mahmood, Blanco",Major,60.0,60,60,44.0
+"Mainstreet, Chefin",Minor,52.0,52,52,86.0
+"Maldy, Karol G",Minor,86.0,86,86,34.0
+Maluma,Major,77.0,77,77,63.0
+"Mambo Kingz, DJ Luian, Anuel Aa",Major,66.5,67,66,54.5
+Manuel Turizo,Minor,68.0,68,68,85.0
+Maria Becerra,Major,79.0,79,79,40.0
+Mariah Carey,Major,63.0,63,63,33.0
+Maroon 5,Major,32.0,32,32,60.0
+"Maroon 5, Wiz Khalifa",Major,74.0,74,74,51.0
+"Marshmello, Jonas Brothers",Major,72.0,72,72,67.0
+"Marshmello, Juice WRLD",Minor,53.0,53,53,24.0
+"Marshmello, Khalid",Minor,77.0,77,77,63.0
+"Marshmello, Manuel Turizo",Minor,68.0,68,68,70.0
+Marï¿½ï¿½lia Mendo,Major,87.0,87,87,79.0
+"Marï¿½ï¿½lia Mendonï¿½ï¿½a, George Henrique &",Minor,83.0,83,83,62.0
+"Marï¿½ï¿½lia Mendonï¿½ï¿½a, Hugo & G",Minor,83.0,83,83,68.0
+"Marï¿½ï¿½lia Mendonï¿½ï¿½a, Maiara &",Minor,69.0,69,69,62.0
+Masked Wolf,Minor,70.0,70,70,47.0
+"Matuï¿½ï¿½, Wiu, ",Minor,64.0,64,64,63.0
+"Mc Livinho, DJ Matt D",Major,34.0,34,34,36.0
+"Mc Pedrinho, DJ 900",Minor,65.0,65,65,68.0
+"Mc Pedrinho, Pedro Sampaio",Minor,57.0,57,57,55.0
+"Mc Vitin Da Igrejinha, MC Tairon, DJ Win",Minor,40.0,40,40,78.0
+Meghan Trainor,Major,53.0,53,53,88.0
+Melanie Martinez,Major,66.0,66,66,42.0
+"Melody, Ana Castela, Dj Chris No Beat",Major,74.0,74,74,74.0
+Metallica,Minor,83.0,83,83,59.0
+"Metro Boomin, Coi Leray",Major,30.0,30,30,5.0
+Michael Bublï¿,Major,35.0,47,23,54.0
+"Migrantes, LiL CaKe, Nico Valdi",Minor,79.0,79,79,96.0
+Miguel,Minor,60.0,60,60,51.0
+Miley Cyrus,Major,66.0,68,64,57.0
+Morgan Wallen,Major,77.27272727272727,91,66,60.45454545454545
+"Morgan Wallen, Eric Church",Major,76.0,76,76,49.0
+Mr.Kitty,Major,60.0,60,60,4.0
+Muni Long,Minor,53.0,53,53,66.0
+Musical Youth,Major,67.0,67,67,88.0
+Myke Towers,Major,74.0,74,74,61.0
+"Myke Towers, Quevedo",Minor,74.0,74,74,66.0
+Mï¿½ï¿½ne,Major,72.25,88,60,64.75
+"NEIKED, Mae Muller, Polo G",Minor,68.0,68,68,67.0
+NF,Major,86.0,86,86,22.0
+NIKI,Major,67.0,67,67,76.0
+NLE Choppa,Minor,61.0,61,61,71.0
+NMIXX,Minor,77.0,77,77,28.0
+Nat King Cole,Major,25.5,36,15,59.0
+Natanael Cano,Minor,77.0,77,77,90.0
+"Natanael Cano, Gabito Ballesteros, Peso Pluma",Minor,73.0,73,73,79.0
+"Natanael Cano, Peso Pluma",Minor,83.0,83,83,89.0
+Nayeon,Major,86.0,86,86,36.0
+"Nengo Flow, Anuel Aa, Chris Jedi, Chencho Corleone",Minor,85.0,85,85,77.0
+"Nengo Flow, Bad Bunny",Major,66.0,66,66,61.0
+Nessa Barrett,Minor,67.0,67,67,44.0
+New West,Major,35.0,35,35,24.0
+NewJeans,Minor,75.66666666666667,94,64,57.5
+Niall Horan,Major,76.0,76,76,68.0
+Nicki Minaj,Major,81.0,89,73,60.0
+"Nicki Minaj, Aqua, Ice Spice",Major,58.0,58,58,75.0
+"Nicki Minaj, Ice Spice",Major,68.0,68,68,74.0
+"Nicki Minaj, Lil Baby",Major,60.5,70,51,64.5
+"Nicky Jam, Feid",Major,62.0,62,62,58.0
+"Nicky Youre, Dazy",Major,71.0,71,71,84.0
+"Nile Rodgers, LE SSERAFIM",Minor,88.0,88,88,38.0
+Nirvana,Major,55.5,91,20,40.5
+"Offset, JID",Major,69.0,69,69,25.0
+"Olga Merediz, Stephanie Beatriz, Encanto - Cast",Major,63.0,63,63,56.0
+Oliver Tree,Major,49.0,49,49,57.0
+Olivia Rodrigo,Major,50.57142857142857,66,29,38.42857142857143
+Omar Apollo,Major,34.0,34,34,31.0
+One Direction,Major,52.0,52,52,40.0
+OneRepublic,Major,76.0,81,71,65.0
+"Oscar Maydon, Junior H",Major,54.0,54,54,37.0
+"Ovy On The Drums, Quevedo",Minor,85.0,85,85,75.0
+Oxlade,Minor,66.0,66,66,79.0
+"Ozuna, Feid",Minor,59.0,59,59,40.0
+"Ozuna, Shakira",Minor,70.0,70,70,82.0
+"Ozuna, Tiago pzk",Major,82.0,82,82,56.0
+P!nk,Major,89.0,89,89,25.0
+"PSY, Suga",Major,96.0,96,96,91.0
+Paloma Faith,Major,89.0,89,89,30.0
+Panic! At The Disco,Minor,82.0,82,82,48.0
+Paul McCartney,Major,58.0,58,58,74.0
+Paulo Londra,Major,64.5,83,46,39.0
+Peggy Gou,Minor,88.0,88,88,96.0
+"Perry Como, The Fontane Sisters, Mitchell Ayres & His Orchestra",Major,32.0,32,32,72.0
+Peso Pluma,Major,70.5,81,60,54.5
+"Peso Pluma, Grupo Frontera",Major,87.0,87,87,63.0
+"Peso Pluma, Luis R Conriquez",Major,75.0,75,75,71.0
+"Peso Pluma, Yng Lvcas",Minor,48.0,48,48,56.0
+"Pharrell Williams, Nile Rodgers, Daft Punk",Minor,81.0,81,81,87.0
+"Pharrell Williams, Tyler, The Creator, 21 Savage",Major,56.0,56,56,15.0
+PinkPantheress,Major,84.0,84,84,74.0
+"PinkPantheress, Ice Spice",Major,81.0,81,81,86.0
+Plan B,Minor,77.0,77,77,52.0
+Playboi Carti,Major,91.0,91,91,56.0
+PnB Rock,Minor,60.0,60,60,4.0
+"Polima WestCoast, Pailita",Major,85.0,85,85,26.0
+Polo G,Major,54.0,54,54,44.0
+Post Malone,Major,79.33333333333333,90,73,48.0
+"Post Malone, Doja Cat",Major,69.0,69,69,43.0
+"Post Malone, Roddy Ricch",Major,78.0,78,78,39.0
+"Post Malone, Swae Lee",Major,50.0,50,50,91.0
+"Prezioso, Gabry Ponte, LUM!X",Major,90.0,90,90,40.0
+"Pritam, Arijit Singh, Amitabh Bhattacharya",Major,57.0,57,57,44.0
+Queen,Minor,40.0,40,40,23.0
+Quevedo,Minor,66.5,76,56,56.5
+"Quevedo, Jhayco",Minor,70.0,70,70,33.0
+"Quevedo, La Pantera, Juseph, Cruz Cafunï¿½ï¿½, Bï¿½ï¿½jo, Abhir Hathi",Minor,75.0,75,75,74.0
+"RAYE, 070 Shake",Major,75.5,77,74,31.5
+RM,Major,77.0,77,77,42.0
+"RM, Colde",Minor,48.0,48,48,19.0
+ROSALï¿½,Major,62.5,63,62,67.0
+Radiohead,Major,34.0,34,34,12.0
+Raim Laode,Major,41.0,41,41,35.0
+Rauw Alejandro,Minor,63.0,63,63,41.5
+"Rauw Alejandro, Bizarrap",Major,77.0,89,65,71.5
+"Rauw Alejandro, ROSALï¿½",Minor,64.0,64,64,53.0
+"Ray Dalton, Ryan Lewis, Macklemore",Major,93.0,93,93,88.0
+Rels B,Major,43.0,43,43,56.0
+"Residente, Bizarrap",Minor,74.0,74,74,70.0
+Rex Orange County,Major,51.0,51,51,73.0
+"Rich The Kid, Matuï¿",Minor,58.0,58,58,69.0
+Rihanna,Major,30.0,30,30,17.0
+"Rihanna, Calvin Harris",Major,77.0,77,77,60.0
+"Riton, Nightcrawlers, Mufasa & Hypeman, Dopamine",Major,86.0,86,86,80.0
+"Robin Schulz, Oliver Tree",Minor,74.0,74,74,20.0
+Rosa Linn,Major,64.0,64,64,52.5
+"Rosa Walton, Hallie Coggins",Minor,74.0,74,74,13.0
+Ruth B.,Major,69.0,69,69,45.0
+Ryan Castro,Major,65.0,68,62,81.5
+Rï¿½ï,Major,78.0,78,78,82.0
+"Rï¿½ï¿½ma, Selena G",Major,80.0,80,80,82.0
+SALES,Minor,45.0,45,45,31.0
+SEVENTEEN,Major,88.0,88,88,35.0
+SZA,Major,52.68421052631579,78,20,45.94736842105263
+"SZA, Doja Cat",Major,66.0,66,66,74.0
+"SZA, Don Toliver",Minor,69.0,69,69,71.0
+"SZA, Phoebe Bridgers",Major,43.0,43,43,59.0
+"SZA, Travis Scott",Major,59.0,59,59,22.0
+Sabrina Carpenter,Major,68.0,68,68,68.0
+"Sachin-Jigar, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya, Varun Jain",Minor,72.0,72,72,96.0
+Sam Ryder,Major,83.0,83,83,33.0
+Sam Smith,Major,49.0,49,49,50.0
+"Sam Smith, Calvin Harris, Jessie Reyez",Major,90.0,90,90,84.0
+"Sam Smith, Kim Petras",Major,47.0,47,47,24.0
+"Schï¿½ï¿½rze, DJ R",Minor,92.0,92,92,41.0
+Seafret,Minor,48.0,48,48,23.0
+"Sean Paul, Dua Lipa",Major,89.0,89,89,45.0
+"Sean Paul, Feid",Major,62.0,62,62,47.0
+Sebastian Yatra,Major,61.0,86,36,70.0
+"Sebastian Yatra, Manuel Turizo, Beï¿½ï",Minor,85.0,85,85,89.0
+"Sech, Bad Bunny, Mora",Major,69.0,69,69,63.0
+"Sech, Mora",Major,71.0,71,71,45.0
+Selena Gomez,Major,39.0,39,39,24.0
+"Semicenk, Doï¿½ï¿½u ",Minor,62.0,62,62,45.0
+"Shae Gill, Ali Sethi",Minor,60.0,60,60,67.0
+Shakin' Stevens,Minor,87.0,87,87,91.0
+Shakira,Major,48.0,48,48,35.0
+"Shakira, Bizarrap",Minor,63.0,63,63,50.0
+"Shakira, Rauw Alejandro",Major,64.0,64,64,57.0
+Shawn Mendes,Major,59.333333333333336,80,29,54.0
+"Shawn Mendes, Camila Cabello",Minor,52.0,52,52,77.0
+Shubh,Minor,63.0,63,63,36.0
+SiM,Major,88.0,88,88,65.0
+Sia,Major,64.5,78,51,30.0
+Sidhu Moose Wala,Minor,76.0,76,76,54.0
+Simone Mendes,Major,89.0,89,89,63.0
+"Skrillex, Flowdan, Fred again..",Minor,84.0,84,84,6.0
+Sleepy hallow,Minor,52.0,52,52,65.0
+"Sleepy hallow, 347aidan",Major,58.0,58,58,68.0
+"Snoop Dogg, BTS, Benny Blanco",Major,87.0,87,87,94.0
+Sofia Carson,Major,53.0,53,53,43.0
+"Sog, Ryan Castro, Peso Pluma",Major,89.0,89,89,92.0
+Southstar,Major,58.0,58,58,24.0
+"Stephanie Beatriz, Diane Guerrero",Major,71.0,71,71,54.0
+Stephen Sanchez,Major,51.0,51,51,25.0
+"Steve Aoki, Tini, La Joaqui",Minor,71.0,71,71,83.0
+Steve Lacy,Major,53.333333333333336,78,31,56.0
+Stray Kids,Major,79.0,80,78,69.0
+Stromae,Minor,55.0,55,55,58.0
+"Styrx, utku INC, Thezth",Minor,80.0,80,80,49.0
+Suki Waterhouse,Major,56.0,56,56,27.0
+Surf Curse,Major,94.0,94,94,41.0
+"Swae Lee, A Boogie Wit da Hoodie, Metro Boomin, NAV",Major,54.0,54,54,22.0
+"Swae Lee, Lil Wayne, Offset, Metro Boomin",Minor,48.0,48,48,20.0
+"TAEYANG, Jimin",Major,68.0,68,68,60.0
+"TAEYANG, Lisa",Minor,70.0,70,70,26.0
+"THE ANXIETY, Willow, Tyler Cole",Major,47.0,47,47,40.0
+TOMORROW X TOGETHER,Minor,89.0,89,89,83.0
+TV Girl,Minor,87.0,87,87,57.0
+TWICE,Major,90.5,91,90,85.0
+"Tainy, Bad Bunny",Minor,71.0,71,71,74.0
+"Taiu, Milo j",Minor,71.0,71,71,96.0
+Tate McRae,Major,50.5,64,37,36.5
+Taylor Swift,Major,56.794117647058826,89,16,35.55882352941177
+"Taylor Swift, Ice Spice",Major,62.0,62,62,7.0
+"Taylor Swift, Lana Del Rey",Major,32.0,32,32,19.0
+Tears For Fears,Major,81.0,81,81,54.0
+"The Chainsmokers, Coldplay",Minor,65.0,65,65,47.0
+"The Chainsmokers, Halsey",Major,52.0,52,52,64.0
+The Goo Goo Dolls,Minor,72.0,72,72,49.0
+The Kid Laroi,Major,53.0,66,40,33.5
+The Killers,Major,93.0,93,93,24.0
+The Neighbourhood,Major,63.666666666666664,81,52,36.666666666666664
+The Police,Major,45.0,45,45,73.0
+The Rare Occasions,Major,88.0,88,88,30.0
+The Ronettes,Major,77.0,77,77,84.0
+The Walters,Major,67.0,67,67,46.0
+The Weeknd,Minor,63.90909090909091,94,41,42.27272727272727
+"The Weeknd, 21 Savage, Metro Boomin",Minor,61.0,61,61,17.0
+"The Weeknd, Daft Punk",Major,59.0,59,59,49.0
+"The Weeknd, Future",Minor,57.0,57,57,10.0
+"The Weeknd, Gesaffelstein",Major,71.0,74,68,17.5
+"The Weeknd, Lana Del Rey",Minor,48.0,48,48,52.0
+"The Weeknd, Lil Wayne",Major,84.0,84,84,85.0
+"The Weeknd, Madonna, Playboi Carti",Major,68.0,68,68,83.0
+"The Weeknd, Post Malone",Major,78.0,78,78,72.0
+"The Weeknd, ROSALï¿½",Minor,30.0,30,30,82.0
+"The Weeknd, Swedish House Mafia",Minor,67.0,67,67,16.0
+"The Weeknd, Tyler, The Creator",Major,64.0,64,64,27.0
+ThxSoMch,Major,68.0,79,57,61.0
+Tini,Major,58.0,58,58,63.0
+"Tini, L-Gante",Major,69.0,69,69,68.0
+"Tini, Maria Becerra",Major,54.0,54,54,92.0
+Tiï¿½ï¿,Minor,62.0,62,62,24.0
+"Tiï¿½ï¿½sto, Ava",Minor,76.0,76,76,46.0
+"Tiï¿½ï¿½sto, Kar",Minor,79.0,79,79,51.0
+"Tiï¿½ï¿½sto, Tate M",Major,79.0,79,79,70.0
+Tom Odell,Minor,54.0,54,54,13.0
+Tones and I,Minor,59.0,59,59,54.0
+"Tony Dize, Bad Bunny",Minor,79.0,79,79,58.0
+Tory Lanez,Minor,53.0,53,53,46.0
+"Travis Scott, 21 Savage, Metro Boomin",Minor,66.0,66,66,24.0
+"Travis Scott, Metro Boomin",Major,54.0,54,54,15.0
+"Travis Scott, Young Thug, Metro Boomin",Minor,53.0,53,53,48.0
+Treasure,Major,64.0,64,64,55.0
+Treyce,Minor,59.0,59,59,61.0
+Troye Sivan,Major,70.5,84,57,38.0
+Trueno,Major,79.0,79,79,86.0
+"Trueno, Tiago pzk",Major,63.0,63,63,78.0
+Tulus,Major,44.0,44,44,76.0
+"Twisted, Oliver Tree",Minor,62.0,62,62,17.0
+"Tyga, Doja Cat",Minor,65.0,65,65,24.0
+"Tyler, The Creator",Minor,72.66666666666667,80,65,58.666666666666664
+"Tyler, The Creator, Kali Uchis",Major,56.0,56,56,58.0
+"Ugly Dray, Tesla Jnr",Major,52.0,52,52,37.0
+V,Major,38.0,38,38,18.0
+Vance Joy,Major,73.0,73,73,50.0
+"Veigh, Bvga Beatz, Supernova Ent, Prod Malax",Minor,50.0,50,50,65.0
+Victor Cibrian,Minor,62.0,62,62,97.0
+"Vishal-Shekhar, Shilpa Rao, Caralisa Monteiro, Kumaar, Vishal Dadlani, Shekhar Ravjiani",Minor,80.0,80,80,65.0
+Vundabar,Major,76.0,76,76,44.0
+Wham!,Minor,65.0,65,65,88.0
+Willow,Minor,71.0,71,71,63.0
+"Wisin & Yandel, ROSALï¿½",Minor,73.0,73,73,64.0
+"WizKid, Toian, Metro Boomin, Don Toliver, Beam",Major,51.0,51,51,59.0
+XXXTENTACION,Minor,35.5,46,25,20.5
+"Xamï¿½ï¿½, Gustah, Neo B",Minor,61.0,61,61,52.0
+YEAT,Major,66.5,76,57,30.5
+YOASOBI,Major,94.0,94,94,84.0
+Yahritza Y Su Esencia,Minor,45.0,45,45,63.0
+"Yahritza Y Su Esencia, Grupo Frontera",Major,73.0,73,73,39.0
+"Yandel, Feid",Major,71.5,73,70,53.0
+Yng Lvcas,Minor,46.0,46,46,75.0
+"Young Thug, Future, Gunna",Minor,42.0,42,42,49.0
+Yung Gravy,Major,75.0,75,75,62.0
+Yung Lean,Major,71.0,71,71,37.0
+"Yuridia, Angela Aguilar",Major,57.0,57,57,88.0
+Zach Bryan,Major,38.0,38,38,22.0
+Zion & Lennox,Major,70.0,70,70,56.0
+Zï¿½ï¿½ Fe,Minor,86.0,86,86,89.0
+Zï¿½ï¿½ Neto & Crist,Major,67.0,67,67,55.0
+a-ha,Minor,90.0,90,90,86.0
+d4vd,Major,51.5,55,48,23.5
+"dennis, MC Kevin o Chris",Major,96.0,96,96,59.0
+girl in red,Major,37.0,37,37,24.0
+j-hope,Major,72.0,72,72,31.0
+"j-hope, J. Cole",Minor,82.0,82,82,81.0
+sped up 8282,Major,73.0,73,73,75.0
+"sped up nightcore, ARIZONATEARS, Lil Uzi Vert",Minor,90.0,90,90,36.0
+teto,Minor,50.0,50,50,28.0
