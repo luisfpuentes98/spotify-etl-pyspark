@@ -10,7 +10,7 @@ Este proyecto nace como una extensión de una investigación académica, evoluci
 ## 📌 Resumen del Proyecto
 El análisis de tendencias musicales requiere integrar datos multiplataforma. Este proyecto demuestra la capacidad de construir una arquitectura "End-to-End": desde la extracción y limpieza automatizada, hasta la creación de Data Marts estratégicos y su visualización. 
 
-A través de un enfoque de **Ingeniería de Software**, el panel interactivo final transforma datos crudos en *insights* accionables sobre el comportamiento de la industria.
+A través de un enfoque de **buenas prácticas de programación y modelado de datos**, el panel interactivo final transforma datos crudos en *insights* accionables sobre el comportamiento de la industria.
 
 ## 🛠️ Stack Tecnológico y Metodología
 * **Herramientas Principales:** Python, PySpark, Pandas, Power BI.
