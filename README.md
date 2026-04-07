@@ -26,10 +26,13 @@ A través de un enfoque de **Ingeniería de Software**, el panel interactivo fin
 3. **Catálogo Histórico y la Retención en Playlists:** El análisis cruzado demuestra que la longevidad en la industria depende de la inclusión en Listas de Reproducción. Artistas sin un volumen masivo de lanzamientos en 2023, como Eminem, Coldplay o Arctic Monkeys, logran mantenerse firmes dentro del Top 10 de retención debido a que sus pistas clásicas están presentes en más de 80,000 *playlists* globales, asegurando un flujo de ingresos pasivo y constante.
 
 ## 📸 Arquitectura del Pipeline ETL
+<img width="5198" height="3859" alt="Arquitectura_del_Pipeline" src="https://github.com/user-attachments/assets/05293258-3082-4b18-9796-659faa6f2ad6" />
 
+## 📸 Vista del Dashboard Ejecutivo Pagina 1
+<img width="1277" height="715" alt="dashboard_principal_pag1" src="https://github.com/user-attachments/assets/a619634e-883e-489d-9f41-8ffb03eb7f55" />
 
-## 📸 Vista del Dashboard Ejecutivo
-<img width="1200" alt="dashboard_spotify" src="./visualizaciones/dashboard_spotify.png" />
+## 📸 Vista del Dashboard Ejecutivo Pagina 1
+<img width="1277" height="710" alt="dashboard_principal_pag2" src="https://github.com/user-attachments/assets/1b1fba2d-08e9-489d-a2c5-e9c003d2bf64" />
 
 ## ⚙️ Muestra de Código: Pipeline PySpark (Extract, Transform & Load)
 Para garantizar la escalabilidad, la lógica matemática y la limpieza se aislaron en módulos independientes. Aquí se muestra un extracto del flujo de procesamiento principal:
